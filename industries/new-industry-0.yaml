@@ -9,9 +9,13 @@ fundCostMultiplier: 100
 id: 0
 layout:
 - - - 0
-    - 1
-  - - 5
+    - 0
+    - -1
+    - -1
+  - - 0
     - 6
+    - -1
+    - -1
 name: 'New industry #0'
 placement: near-town
 probabilityInGame: 5
